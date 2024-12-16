@@ -16,6 +16,7 @@ body {
 
 .start-button {
   background-color: #218838;
+  display: inline-block;
 }
 
 .add-btn {
